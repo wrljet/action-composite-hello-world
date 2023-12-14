@@ -1,2 +1,2 @@
-# hello-world-composite-action
+# action-composite-hello-world
  GitHub Actions Composite Test
